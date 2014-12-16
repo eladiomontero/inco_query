@@ -1,0 +1,5 @@
+django
+mysql-connector-python
+django-bower
+django-nvd3
+python-nvd3
